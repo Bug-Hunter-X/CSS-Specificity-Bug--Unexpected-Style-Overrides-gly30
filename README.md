@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS bug related to specificity issues.  The `bug.css` file contains the erroneous CSS code, where a highly specific selector overrides a more general style that should have precedence.  The `bugSolution.css` provides the corrected code, illustrating the proper way to handle specificity conflicts.
